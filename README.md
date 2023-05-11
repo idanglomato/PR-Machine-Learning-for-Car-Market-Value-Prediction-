@@ -11,3 +11,5 @@ Rusty Bargain is interested in:
 
 ### Objectives
 Create a model that can determine the market value of cars with high accuracy, high prediction speed and low training time.
+
+NB. Since the dataset is more than 25MB, it is not uploaded to this repository.
